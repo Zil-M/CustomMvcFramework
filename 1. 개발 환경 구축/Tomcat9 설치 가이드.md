@@ -5,7 +5,7 @@ Windows는 zip 다운, Mac은 tar 다운
 
 3. 웹 브라우저에서 locahost:8080 실행 후 아래 화면이 나타나면 정상 실행이다.
 
-![datatype](./tomcatSuccess.png)
+![datatype](./img/tomcatSuccess.PNG)
 
 
 ## Tomcat 10을 쓰지 않고 9버전을 쓰는 이유
